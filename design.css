@@ -1,0 +1,121 @@
+.header{
+    border: ridge #0000FF;
+    height: 800px;
+    margin-left: 300px;
+    
+}
+.logo{
+
+}
+.pre{
+  
+}
+.row12{
+    height:200px;
+    width:70%;
+  /*    background-color: blue;*/
+    
+  }
+  .row12{
+    flex: 1;
+   float: right;
+    margin-top: -80px
+    
+  }
+  .row12 ul li{
+     list-style: none;
+     display: inline-block;
+     margin: 10px 20px;
+     font-size: 20px;
+    margin-left: 100px;
+  }
+  .row12 ul li a{
+      font-weight: bold;
+     text-decoration: none;
+     color:black;
+     transition: 0.4s;   
+  }
+ .box{
+    font-weight: 100px;
+    font-size: 25px;
+    margin-top: 55px;
+ }
+ .box ul li{
+    list-style: none;
+     display: inline-block;
+    
+ }
+ .box ul li a{
+    float: left;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+ }
+.acc nav li a{
+    list-style: none;
+     display: inline-block;
+     text-decoration: none;
+     color: black;
+     margin-left: -250px;
+     margin-right: 590px;
+     margin-top: 100px;
+}
+.acc li{
+    text-decoration: none;
+    
+    font-size: 65px;
+}
+.acc{
+    float: left;
+}
+.content{
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
+}
+.acc2 img{
+    float: right;
+}
+.acc3 img{
+    position: relative;
+    float: right;
+    top: -70px;
+    left: 65px;
+}
+
+
+.all li{
+    text-decoration: none;
+    margin-top: 10px;
+    font-size: 25px;
+    
+}
+.nav li a{
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: 50px;
+}
+.all li a{
+    margin-top: 100px;
+}
+.content1{
+    margin-top: -80px;
+}
+
+.content2{
+    background-color: #0000FF;
+    width: 150px;
+    height: 50px;
+    margin-left: -250px;
+    
+}
+.abc{
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+    margin-top: 20px;
+    font-size: 25px;
+
+    
+}
