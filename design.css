@@ -5,10 +5,25 @@
     
 }
 .logo{
-
+ float: left;
+ margin-top: 350px;
+ font-size: 50px;
 }
-.pre{
-  
+.lpe{
+    float: left;
+ margin-top: 400px;
+ font-size: 50px;
+ margin-left: -265px;
+}
+.lpa{
+    float: left;
+ margin-top: 490px;
+ margin-left: -265px;
+ font-size: 25px;
+ font-weight: 5;
+}
+.row23{
+    background-color: #0000FF;
 }
 .row12{
     height:200px;
@@ -82,7 +97,17 @@
     top: -70px;
     left: 65px;
 }
-
+.acc4 img{
+    float: right;
+    margin-top: 300px;
+    margin-left: 300px;
+    margin-right: -183px;
+}
+.acc5 img{
+    border-radius: 50%;
+   margin-left: auto;
+   margin-top: 300px;
+}
 
 .all li{
     text-decoration: none;
@@ -118,4 +143,16 @@
     font-size: 25px;
 
     
+}
+.caro{
+    width: 70px;
+    height: 70px;
+    background: red;
+    float: right;
+    margin-top: -127px;
+    margin-right: 350px;
+    border-radius: 20px 20px;
+}
+.hr{
+    float: right;
 }
