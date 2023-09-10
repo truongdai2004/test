@@ -8,6 +8,7 @@
  float: left;
  margin-top: 350px;
  font-size: 50px;
+
 }
 .lpe{
     float: left;
@@ -22,8 +23,46 @@
  font-size: 25px;
  font-weight: 5;
 }
+.fex{
+    background:red;
+    width: 55px;
+    height: 24px;
+    border-radius: 20px;
+    float: left;
+    margin-top: 556px;
+    margin-left: -260px;
+}
+.fex1{
+    background: #9900CC;
+    width: 25px;
+    height: 30px;
+    -webkit-border-top-left-radius:40px 30px;
+    -webkit-border-bottom-left-radius:40px 30px;
+    margin-top: 580px;
+    float: left;
+    margin-left: -260px;
+}
+.fex23{
+    background:#0066FF;
+    width: 30px;
+    height: 30px;
+    margin-top: 580px;
+    float: left;
+    margin-left: -235px;
+    border-radius: 50%;
+}
+.ff{
+    background:#00FF00;
+    width: 23px;
+    height: 27px;
+    margin-top: 610px;
+    float: left;
+    margin-left: -258px;
+    border-radius: 50px 0px 50px 50px;
+}
 .row23{
     background-color: #0000FF;
+   
 }
 .row12{
     height:200px;
@@ -103,10 +142,19 @@
     margin-left: 300px;
     margin-right: -183px;
 }
-.acc5 img{
+.cards ul li{
+    list-style: none;
+    display: inline-block;
+
+}
+.cards ul li a img{
+    float: left;
+    text-decoration: none;
     border-radius: 50%;
-   margin-left: auto;
-   margin-top: 300px;
+    margin-top: 240px;
+    display:inline-block;
+    margin-right: -5px;
+
 }
 
 .all li{
@@ -128,31 +176,30 @@
     margin-top: -80px;
 }
 
-.content2{
-    background-color: #0000FF;
-    width: 150px;
-    height: 50px;
-    margin-left: -250px;
-    
-}
-.abc{
-    text-align: center;
-    margin-top: 100px;
+.word{
     color: white;
-    margin-top: 20px;
-    font-size: 25px;
-
-    
+    background: #0000FF;
+    font-weight: 50;
+   margin-left: -250px;
+   width: 180px;
+  
+   
 }
+
+
 .caro{
     width: 70px;
     height: 70px;
     background: red;
     float: right;
-    margin-top: -127px;
+    margin-top: -30px;
     margin-right: 350px;
     border-radius: 20px 20px;
 }
-.hr{
-    float: right;
+.card{
+    margin-top: 18px;
+    font-size: 25px;
+    margin-left: 45px;
+    margin-right: 700px;
 }
+
